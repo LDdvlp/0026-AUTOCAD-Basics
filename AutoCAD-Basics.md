@@ -8,7 +8,7 @@
 
 |#|Français|English|Raccourci|Action|
 |:---:|:---:|:---:|:---:|:---|
-|01|`GRILLE`|`GRID`|---|Affiche un motif de grille dans la fenêtre courante|
+|01|`GRILLE`|`GRID`|---|Affiche un motif de grille dans la fenêtre courante.|
 |02|`CALQUE`|`LAYER`|`LA`|Gère les calques et leurs propriétés.|
 |03|`LIGNE`|`LINE`|`L`|Crée une série de segments de ligne contigus, dont chaque segment est un objet ligne modifiable séparément.|
 |04|`POLYLIGN`|`PLINE`|`PL`|Crée une polyligne 2D, un objet unique composé de segments de ligne et d'arc.|

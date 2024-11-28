@@ -87,3 +87,21 @@ Il existe trois types de gizmos :
 ___Sources___
 - [Utilisation de gizmos 3D](https://help.autodesk.com/view/ACD/2025/FRA/?guid=GUID-7BD066C9-31BA-4D47-8064-2F9CF268FA15)
 ---
+
+### 3.3 Underscore devant les commandes anglaises
+
+Placer un underscore (_) devant les commandes anglaises permet à AutoCAD français par exemple, de les interpréter.
+
+Exemple :
+```
+    _LINE
+    signifie
+    LIGNE
+    dans un AutoCAD français.
+```
+
+---
+___Sources___
+- [Les webinaires de la communauté : Initiation à AutoLISP - [Undersscore devant les commandes anglaises]](https://youtu.be/aM-sLlztIjU?si=FtfUk1ET6yO0g471&t=2860)
+---
+

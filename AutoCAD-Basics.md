@@ -56,14 +56,14 @@ ___Sources___
 ---
 ___Sources___
 - [Les webinaires de la communauté : Initiation à AutoLISP - [VLIDE]](https://youtu.be/aM-sLlztIjU?si=FcyCOmkpM7zRLu-T&t=546)
-- [AUTODESK AutoCAD 2025 - VLISP (commande)](https://help.autodesk.com/view/ACD/2025/FRA/?guid=GUID-5601ACC6-C4F6-4375-9C2C-3DBCAE2880B1)
+- [AUTODESK AutoCAD 2025 - [VLISP (commande)]](https://help.autodesk.com/view/ACD/2025/FRA/?guid=GUID-5601ACC6-C4F6-4375-9C2C-3DBCAE2880B1)
 ---
 
 ## 3. Notes
 
 ### 3.1 Les macros par rapport au LISP
 
-Les macros utilisent le langage DIESEL pour une automatisation des tâches, mais le DIESEL reste très limité par rapport au LISP
+Les macros utilisent le langage DIESEL pour une automatisation des tâches, mais le DIESEL reste très limité par rapport au LISP.
 
 ---
 ___Sources___
